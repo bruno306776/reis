@@ -32,8 +32,8 @@ public class SwaggerConfig {
 
     private ApiInfo metaData() {
         return new ApiInfoBuilder()
-                .title("Spring Boot 2 REST API Cadastro e Consulta Cliente")
-                .description("Serviço criado por Jasiel P de Sant ana")
+                .title("Primeiro Projeto de Desenvolvimento")
+                .description("Serviço criado por Bruno Reis")
                 .version("2.2")
                 .license("Apache License Version 2.0")
                 .licenseUrl("https://www.apache.org/licenses/LICENSE-2.0\"")
